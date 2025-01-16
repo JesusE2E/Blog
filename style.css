@@ -1,0 +1,25 @@
+*{
+    background-color: #FEF9E1  ;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    color:  #6D2323 ;
+    text-align: center;
+}
+#imgSemana1{
+    width: 350px;
+    height: 350px;
+}
+
+.barraNav{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+p{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    color: #6D2323;
+}
